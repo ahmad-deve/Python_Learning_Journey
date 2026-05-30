@@ -1,0 +1,4 @@
+strg = """my name is ahmad and i love computer and i set front of the computer whole day."""
+g = open("myfile.txt", "w")
+g.write(strg)
+g.close()
