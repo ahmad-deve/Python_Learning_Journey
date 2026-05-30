@@ -1,0 +1,5 @@
+This is the sample file. only creating for the testnow i add the more text
+now i add the more text
+ This is an adding the line.
+ This is an adding the line using the r+ mode.
+ This is an adding the line using the r+ mode.
